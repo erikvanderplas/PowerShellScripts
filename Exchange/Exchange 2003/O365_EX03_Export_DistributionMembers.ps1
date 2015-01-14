@@ -1,3 +1,16 @@
+###############################################################################
+#
+#   Created by:		Erik van der Plas
+#   Company: 		Sogeti Netherlands B.V.
+#       
+#   Created on:		January 13, 2015
+#	Version:		0.1
+#
+#   Get Distribution Groups and members
+#   Applicable for Exchange 2003 with Windows Server 2008 R2 Domain Controllers
+#
+###############################################################################
+
 $Groups = $Null
 $Group = $Null
 $SearchBase = $Null

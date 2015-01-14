@@ -1,12 +1,12 @@
 ###############################################################################
 #
 #   Created by:		Erik van der Plas
-#   Company: 		  Sogeti Netherlands B.V.
+#   Company: 		Sogeti Netherlands B.V.
 #       
 #   Created on:		January 13, 2015
-#	  Version:		  0.1
+#	Version:		0.1
 #
-#	  Add Distribution Groups through a CSV file
+#   Add Distribution Groups through a CSV file
 #   Applicable for Exchange 2007, 2010, 2013, and Online
 #
 ###############################################################################
