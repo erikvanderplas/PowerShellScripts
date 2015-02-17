@@ -31,6 +31,6 @@ if (!$Language) {
 
 If ($Language -like 'English_US') { $Language = 1033 }
 If ($Language -like 'English_UK') { $Language = 2057 }
-If ($Language -like 'Dutch') { $Language = 1033 }
+If ($Language -like 'Dutch') { $Language = 1043 }
 
-Get-Mailbox | Set-MailboxRegionalConfiguration -Language $Language -TimeZone 'W. Europe Standard Time' | Set-MailboxRegionalConfiguration -LocalizeDefaultFolderName:$true
+Get-Mailbox | Set-MailboxRegionalConfiguration -Language NL-nl -TimeZone 'W. Europe Standard Time' | Set-MailboxRegionalConfiguration -LocalizeDefaultFolderName:$true

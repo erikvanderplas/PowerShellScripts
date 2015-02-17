@@ -1,0 +1,3 @@
+Name;ServiceGroup;VNET
+IB-TEST-1;EVDP-TEST;Subnet-1
+IB-TEST-2;EVDP-TEST;Subnet-2
